@@ -4,7 +4,7 @@ print("Enter elements:")
 i = 0
 while (i < n):
     tmp = int(input(""))
-    arr.append(tmp)
+    arr.append(tmp * 0)
     i += 1
 
 print("Array:")
